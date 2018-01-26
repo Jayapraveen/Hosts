@@ -6,6 +6,8 @@
 
 ## HOW TO INSTALL ?
 
+### Method 1
+
 1. DOWNLOAD THE LATEST HOSTS FILE
 
 2. COPY THE HOSTS FILE TO YOUR HOSTS FILE DIRECTORY 
@@ -13,6 +15,15 @@
    WINDOWS- %WINDIR%\system32\Drivers\etc\
    
 3. reboot 
+
+### Method 2
+
+1. Download & Install the latest version of Adaway for Android 
+
+2. Settings -> Host sources - > https://raw.githubusercontent.com/Jayapraveen/Hosts/master/hosts
+
+3. Apply Adaway
+
 
 ## How does it work ?
 
