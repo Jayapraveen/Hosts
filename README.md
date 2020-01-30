@@ -4,6 +4,20 @@
 
 1. ANY DEVICE WITH ROOT/ADMINISTRATOR PERMISSION TO MAKE MODIFICATIONS TO THE HOSTS FILE
 
+## Disclaimer
+
+1. All the links/urls in this hosts file are scrapped from search engines/other repositiories by manual work and with the use of bots.
+
+2. Tracker and telemetry servies are coming up each day, it is hard to keep up with them each days. Your Pull request is appreciated.
+
+3. Usage of the file is your sole responsibility. You are free to modify the contents of the file as per your wish.
+
+4. Any Individual person cannot be held responsible for the contents of the file or its usage or simply possesing the file. 
+
+5. I request the web to stop creating any more of these kind of sites.
+
+6. Created with best efforts to have a clean and hassle free web browsing experience. We all deserve one !
+ 
 ## HOW TO INSTALL ?
 
 ### Method 1
